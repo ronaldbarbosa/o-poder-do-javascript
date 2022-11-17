@@ -1,3 +1,16 @@
-node_modules
-dist
-uploads
+node_modules/
+.expo/
+.vscode
+dist/
+uploads/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
