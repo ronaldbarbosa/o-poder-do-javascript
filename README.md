@@ -6,7 +6,7 @@
 * API para comunicação com o back-end da aplicação
 * Dashboard web que vai receber e processar os pedidos
 * Client mobile para o cadastro dos pedidos 
-* Integração entre os componentes (Back-end, Front-end, API, Web e Mobile)
+* Integração entre os componentes (Back-end, Front-end, API e Mobile)
 
 
 ## Aula 1: Desenvolvendo a API
